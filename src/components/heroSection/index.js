@@ -27,7 +27,7 @@ const HeroSection = () => {
       <HeroContent>
         <h1 className="h1-hero">Reaching Goals Made Easy</h1>
         <p className="hero-text">
-          Sign up today and recieve $250 in credit for your next sucessfull
+          Sign up today and recieve $250 in credit for your next successful
           project.
         </p>
         <HeroBtnWrapper>

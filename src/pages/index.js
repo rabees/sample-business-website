@@ -25,26 +25,26 @@ export const Home = () => {
       <InfoSection
         image={Image1}
         id="about"
-        subtitle="Mauris tempor interdum"
-        title="Proin condimentum diam"
-        text="In luctus nibh nec metus placerat consectetur. Maecenas odio mi, ullamcorper at porta non, egestas vitae velit. Donec lacinia porta tristique. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis nec arcu nec diam posuere tincidunt. Nulla dignissim enim id nibh luctus, ullamcorper sagittis eros semper."
+        subtitle="Donec lorem tellus"
+        title="Lorem ipsum"
+        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultricies erat ac fringilla facilisis. Sed fermentum metus non purus convallis, non cursus urna ultricies. Praesent nec mollis lacus. Morbi interdum, tortor a consequat fermentum, neque mi auctor ex, placerat sagittis metus dolor in nisl."
         btnText="Start today"
       />
       <InfoSectionLight
         image={Image2}
         id="discover"
-        subtitle="Morbi iaculis enim"
-        title="In hac habitasse"
-        text="Phasellus porta sagittis sapien. Nam quis odio eu libero tempus rutrum. Suspendisse nec eros eget ex cursus rhoncus. Proin at velit quis ante pretium porta. Quisque pulvinar, elit et tincidunt ultricies, mauris odio luctus risus, vitae auctor elit risus a tortor. Nunc pulvinar purus id est rutrum vulputate. Mauris venenatis lectus vel nisi semper scelerisque."
+        subtitle="Sed fermentum"
+        title="Donec elementum"
+        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultricies erat ac fringilla facilisis. Sed fermentum metus non purus convallis, non cursus urna ultricies. Praesent nec mollis lacus. Morbi interdum, tortor a consequat fermentum, neque mi auctor ex, placerat sagittis metus dolor in nisl."
         btnText="Explore"
       />
       <Services />
       <InfoSectionLight
         image={Image1}
         id="#"
-        subtitle="Duis et lectus accumsan"
-        title="Quisque dui justo"
-        text="Cras et ligula eget neque ornare tempor et vitae est. Duis et lectus accumsan, mollis dui a, finibus metus. Quisque dui justo, ullamcorper eget luctus id, consectetur eget nunc. In quis arcu erat. Morbi consequat imperdiet lorem, porta porta erat hendrerit vel. Aliquam dignissim purus at dolor posuere euismod."
+        subtitle="Morbi interdum"
+        title="Phasellus eget"
+        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultricies erat ac fringilla facilisis. Sed fermentum metus non purus convallis, non cursus urna ultricies. Praesent nec mollis lacus. Morbi interdum, tortor a consequat fermentum, neque mi auctor ex, placerat sagittis metus dolor in nisl."
         btnText="Read more"
       />
       <Footer />
