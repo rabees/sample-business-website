@@ -14,7 +14,7 @@ const Services = () => {
           <ServicesH2>Donec quis</ServicesH2>
           <ServicesP>
             Fusce fringilla est ut velit finibus ultricies. Pellentesque id
-            eleifend erat.
+            eleifend erat. Aenean efficitur urna sed felis varius morbi.
           </ServicesP>
         </ServicesCard>
         <ServicesCard>
