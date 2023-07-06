@@ -2,6 +2,14 @@
 
 This repository contains the source code for a sample business website. It is a responsive website designed for showcasing business information and services. It provides an engaging user experience and presents the company's offerings to potential clients.
 
+## Tech Stack
+
+This Sample Business Website is built using the following technologies:
+
+- **React**: JavaScript library for building user interfaces.
+- **HTML**: Markup language for creating the website structure.
+- **CSS**: Styling language for designing the website layout and appearance.
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -46,17 +54,16 @@ Contributions are welcome! If you would like to contribute to this project, plea
 Here are some screenshots showcasing the Sample Business Website:
 
 1. **Homepage**: ![Homepage](screenshots/homepage.png)
-   *The homepage showcases key information about the company.*
+   _The homepage showcases key information about the company._
 
 2. **About Section**: ![About Section](screenshots/about-section.png)
-   *The about section provides a brief overview of the company's history and values.*
+   _The about section provides a brief overview of the company's history and values._
 
 3. **Discover Section**: ![Discover Section](screenshots/discover-section.png)
-   *The discover section highlights the company's services and areas of expertise.*
+   _The discover section highlights the company's services and areas of expertise._
 
 4. **Services Section**: ![Services Section](screenshots/services-section.png)
-   *The services section provides detailed information about the company's offerings.*
+   _The services section provides detailed information about the company's offerings._
 
 5. **Footer**: ![Footer](screenshots/footer.png)
-   *The footer section includes contact information and links to social media platforms.*
-   
+   _The footer section includes contact information and links to social media platforms._
