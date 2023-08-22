@@ -2,6 +2,8 @@
 
 This repository contains the source code for a sample business website. It is a responsive website designed for showcasing business information and services. It provides an engaging user experience and presents the company's offerings to potential clients.
 
+Visit the application at [https://symantec.netlify.app/](https://symantec.netlify.app/).
+
 ## Tech Stack
 
 This Sample Business Website is built using the following technologies:
